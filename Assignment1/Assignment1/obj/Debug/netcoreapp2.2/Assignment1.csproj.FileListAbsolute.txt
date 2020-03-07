@@ -1,0 +1,10 @@
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.deps.json
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.runtimeconfig.json
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.runtimeconfig.dev.json
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.dll
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.pdb
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.csprojAssemblyReference.cache
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.AssemblyInfoInputs.cache
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.AssemblyInfo.cs
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.dll
+/Users/benjaminpayne/Apps/CSCI280/Programs/Assignment1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.pdb
