@@ -28,28 +28,14 @@ namespace Assignment1
 
                     choice = Console.ReadLine();
                 }
+                
+                Console.Write("Enter first number: ");
 
-                Boolean parsedFirstNumber = false;
+                Int32 firstNumber = Convert.ToInt32(Console.ReadLine(), 2);
 
-                Int32 firstNumber = 0;
+                Console.Write("Enter second number: ");
 
-                while (!parsedFirstNumber)
-                {
-                    Console.Write("Enter first number: ");
-
-                    parsedFirstNumber = Int32.TryParse(Console.ReadLine(), out firstNumber);
-                }
-
-                Boolean parsedSecondNumber = false;
-
-                Int32 secondNumber = 0;
-
-                while (!parsedSecondNumber)
-                {
-                    Console.Write("Enter second number: ");
-
-                    parsedSecondNumber = Int32.TryParse(Console.ReadLine(), out secondNumber);
-                }
+                Int32 secondNumber = Convert.ToInt32(Console.ReadLine(), 2);
 
                 Int32 result;
 
