@@ -1,0 +1,6 @@
+/Users/benjaminpayne/Downloads/depthFirstSearch/depthFirstSearch/bin/Debug/depthFirstSearch.exe.config
+/Users/benjaminpayne/Downloads/depthFirstSearch/depthFirstSearch/bin/Debug/depthFirstSearch.exe
+/Users/benjaminpayne/Downloads/depthFirstSearch/depthFirstSearch/bin/Debug/depthFirstSearch.pdb
+/Users/benjaminpayne/Downloads/depthFirstSearch/depthFirstSearch/obj/Debug/depthFirstSearch.csprojAssemblyReference.cache
+/Users/benjaminpayne/Downloads/depthFirstSearch/depthFirstSearch/obj/Debug/depthFirstSearch.exe
+/Users/benjaminpayne/Downloads/depthFirstSearch/depthFirstSearch/obj/Debug/depthFirstSearch.pdb
