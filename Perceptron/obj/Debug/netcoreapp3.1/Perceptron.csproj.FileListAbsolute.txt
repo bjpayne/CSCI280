@@ -1,0 +1,10 @@
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/bin/Debug/netcoreapp3.1/Perceptron.deps.json
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/bin/Debug/netcoreapp3.1/Perceptron.runtimeconfig.json
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/bin/Debug/netcoreapp3.1/Perceptron.runtimeconfig.dev.json
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/bin/Debug/netcoreapp3.1/Perceptron.dll
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/bin/Debug/netcoreapp3.1/Perceptron.pdb
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/obj/Debug/netcoreapp3.1/Perceptron.csprojAssemblyReference.cache
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/obj/Debug/netcoreapp3.1/Perceptron.AssemblyInfoInputs.cache
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/obj/Debug/netcoreapp3.1/Perceptron.AssemblyInfo.cs
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/obj/Debug/netcoreapp3.1/Perceptron.dll
+/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/obj/Debug/netcoreapp3.1/Perceptron.pdb
