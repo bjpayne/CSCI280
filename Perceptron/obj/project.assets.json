@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/Perceptron.csproj",
+      "projectUniqueName": "/Users/benjaminpayne/Apps/CSCI280/Programs/Perceptron/Perceptron.csproj",
       "projectName": "Perceptron",
-      "projectPath": "/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/Perceptron.csproj",
+      "projectPath": "/Users/benjaminpayne/Apps/CSCI280/Programs/Perceptron/Perceptron.csproj",
       "packagesPath": "/Users/benjaminpayne/.nuget/packages/",
-      "outputPath": "/Users/benjaminpayne/Apps/CSCI312/Programs/Perceptron/obj/",
+      "outputPath": "/Users/benjaminpayne/Apps/CSCI280/Programs/Perceptron/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

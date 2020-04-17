@@ -2,19 +2,12 @@
 
 namespace Perceptron
 {
-    /**
-     * Source:
-     * Sporici, D. (2012, Sep 16). C# Perceptron Tutorial. Retrieved from
-     * https://codingvision.net/miscellaneous/c-perceptron-tutorial
-     */
     class Program
     {
-        static void Main(string[] args)
+        static void Main(String[] args)
         {
-            String primaryInputRequest = "Please enter the first input (1 or 0): ";
-            String secondaryInputRequest = "Please enter the second input (1 or 0): ";
-
-            Int32 bias = 1;
+            const String primaryInputRequest = "Please enter the first input (1 or 0): ";
+            const String secondaryInputRequest = "Please enter the second input (1 or 0): ";
 
             Int32 primaryInput;
             Int32 secondaryInput;
@@ -58,7 +51,7 @@ namespace Perceptron
             {
                 totalError = 0;
                 
-                Int32 output = CalculateOutput(input[0, 0], input[0, 1], weights);
+                Int32 output = SigmoidActivationOutput(input[0, 0], input[0, 1], weights);
 
                 Int32 error = outputs[0] - output;
 
@@ -72,25 +65,32 @@ namespace Perceptron
             Console.Write("Result: ");
 
             // Display the results
-            Console.WriteLine(CalculateOutput(input[0, 0], input[0, 1], weights));
+            Console.WriteLine(SigmoidActivationOutput(input[0, 0], input[0, 1], weights));
 
             for (Int32 i = 0; i < weights.Length; i++)
             {
                 Console.WriteLine($"Random weight {i + 1}: {weights[i]}");
             }
+            
+            Console.WriteLine("Would you like to run another test? (Y/n)");
+            
+            String runAgain = Console.ReadLine();
 
-            Console.ReadLine();
+            if (runAgain != null && (runAgain.Equals("") || runAgain.ToLower().Equals("y")))
+            {
+                Main(args);
+            }
         }
 
         /**
-         * Run the 
+         * Calculate the 
          */
-        private static Int32 CalculateOutput(Double input1, Double input2, double[] weights)
+        private static Int32 SigmoidActivationOutput(Double input1, Double input2, Double[] weights)
         {
             // Bias must always be 1
             const Int32 bias = 1;
-            
-            Double sum = input1 * weights[0] + input2 * weights[1] + bias * weights[2];
+
+            Double sum = (input1 * weights[0]) + (input2 * weights[1]) + (bias * weights[2]);
 
             return (sum >= 0) ? 1 : 0;
         }
